@@ -132,11 +132,7 @@ few_samples_df['sample_id'].nunique()
 len(sample_ids)
 
 
-# ===== Cell 19: Converted from notebook =====
-# Context: Core logic or helpers preserved; adjust names as needed.
-from openai import OpenAI
-key = "sk-Q703dTVkVheKa81jIVEZZuTiBdVrEwRt0uhGd32WnH56YuVk"
-client = OpenAI(base_url="https://api2.aigcbest.top/v1", api_key=key)
+
 
 
 # ===== Cell 20: Converted from notebook =====
